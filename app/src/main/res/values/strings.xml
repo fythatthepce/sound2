@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">sound2</string>
+    <string name="title_activity_select_control">SelectControl</string>
+</resources>
